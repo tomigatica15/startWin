@@ -1,8 +1,6 @@
 @echo off
 color 0F
 
-echo Seleccione la ruta de su office:
-
 echo Ejecutando en modo administrador...
 echo.
 
